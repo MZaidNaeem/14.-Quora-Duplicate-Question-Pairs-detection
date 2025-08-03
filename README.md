@@ -22,10 +22,6 @@ Python | Scikit-learn | XGBoost | NLTK | Pandas | Streamlit
 🌐 Use Case Impact:
 This solution can significantly improve Q&A platforms by grouping duplicate questions, leading to better answer visibility and improved user experience.
 
-👉 You should definitely try it out—link is given below!
-
-🔗 Web App: https://lnkd.in/your-app-link
-🔗 GitHub Code: https://lnkd.in/your-github-link
 
 
 #QuoraDuplicateQuestionDetector #DuplicateDetection #XGBoost #DecisionTree
